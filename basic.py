@@ -1,3 +1,5 @@
+#this is simple change test for git status
+
 print ("HELLO WORLD")
 a = int(input("ENTER A NUMBER"))
 b = int(input("ENTER A NUMBER"))
